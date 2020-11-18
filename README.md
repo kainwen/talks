@@ -1,6 +1,8 @@
 Some talks given by me
 ======================
 
+* [*工程中的算法与数据结构*](algorithm_talk_2020.pdf) 清华大学数据算法课外沙龙 @ 清华大学罗姆楼 Nov, 2020
+* [*Greenplum的锁*](Greenplum_lock.pptx) Talk @ PGConf.Asia Nov, 2020
 * [*数据与算法的故事: 4*](algorithm_talks_4.pdf) 清华大学数据算法课外沙龙4(Prolog和搜索)  @ 清华大学罗姆楼 Dec, 2019
 * [*Greenplum 查询优化器关键技术介绍*](Greenplum_planner.pptx): 第九届PostgreSQL中国技术大会 @ Nov, 2019
 * [*数据与算法的故事: 3*](algorithm_talks_3.pdf) 清华大学数据算法课外沙龙3(随机分析)  @ 清华大学罗姆楼 Nov, 2019
