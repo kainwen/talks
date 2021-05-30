@@ -1,6 +1,7 @@
 Some talks given by me
 ======================
 
+* [*Hacking Greenplum*](hack_gpdb.pdf) 第十二届中国开源黑客松 @ 金融客咖啡 May, 2021
 * [*工程中的算法与数据结构*](algorithm_talk_2020.pdf) 清华大学数据算法课外沙龙 @ 清华大学罗姆楼 Nov, 2020
 * [*Greenplum的锁*](Greenplum_lock.pptx) Talk @ PGConf.Asia Nov, 2020
 * [*数据与算法的故事: 4*](algorithm_talks_4.pdf) 清华大学数据算法课外沙龙4(Prolog和搜索)  @ 清华大学罗姆楼 Dec, 2019
